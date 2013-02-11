@@ -1,4 +1,4 @@
-- Finir de modéliser le problème en détaillant l'IA
+- Finir de modéliser le problème en détaillant l'IA -> Lucas
 
 - Prendre en main le code du TicTacToe
 
